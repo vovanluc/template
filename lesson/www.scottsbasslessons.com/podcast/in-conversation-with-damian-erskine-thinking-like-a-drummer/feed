@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: In Conversation with Damian Erskine &#8211; Thinking Like a Drummer</title>
+	<atom:link href="http://www.scottsbasslessons.com/podcast/in-conversation-with-damian-erskine-thinking-like-a-drummer/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com/podcast/in-conversation-with-damian-erskine-thinking-like-a-drummer</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Wed, 19 Jul 2017 21:18:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>By: Niclas Gustafsson</title>
+		<link>http://www.scottsbasslessons.com/podcast/in-conversation-with-damian-erskine-thinking-like-a-drummer#comment-17331</link>
+		<dc:creator><![CDATA[Niclas Gustafsson]]></dc:creator>
+		<pubDate>Mon, 01 Aug 2016 22:38:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?post_type=podcast&#038;p=14586#comment-17331</guid>
+		<description><![CDATA[Hi Scott! 
+Really great pod! It just give me a sweet feeling listening and learning to you and Damian. Great vibes and lots of knowledge thrown around. 
+
+suggestion for improvement: (I am an mixing engineer and that maybe makes me a bit sensitive to this, but..) if you make sure rec levels are not over -12dbfs and instead use a compressor and some limiting in the post process to bring the audio up, things wont distort. :) And i have noticed in other videos that your microphone is often falling around pointing at the room instead of your head. when in the middle of a conversation that cant be fixed of course. but if you use a small headset fixed to your chin (The ones that actors and singers and such use. DPA makes really great skin colored ones) that problem will go away. 
+
+(sorry if i sound harsh. english is not my first language. i am just trying to help making everything as good as it possibly can!)
+
+Regards
+Niclas]]></description>
+		<content:encoded><![CDATA[<p>Hi Scott!<br />
+Really great pod! It just give me a sweet feeling listening and learning to you and Damian. Great vibes and lots of knowledge thrown around. </p>
+<p>suggestion for improvement: (I am an mixing engineer and that maybe makes me a bit sensitive to this, but..) if you make sure rec levels are not over -12dbfs and instead use a compressor and some limiting in the post process to bring the audio up, things wont distort. :) And i have noticed in other videos that your microphone is often falling around pointing at the room instead of your head. when in the middle of a conversation that cant be fixed of course. but if you use a small headset fixed to your chin (The ones that actors and singers and such use. DPA makes really great skin colored ones) that problem will go away. </p>
+<p>(sorry if i sound harsh. english is not my first language. i am just trying to help making everything as good as it possibly can!)</p>
+<p>Regards<br />
+Niclas</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

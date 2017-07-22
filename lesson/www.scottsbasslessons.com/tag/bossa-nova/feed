@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bossa nova &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/bossa-nova/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Exploring the Bossa Nova (L#104)</title>
+		<link>http://www.scottsbasslessons.com/bass-lines-grooves/exporing-bossa-nova.html</link>
+		<comments>http://www.scottsbasslessons.com/bass-lines-grooves/exporing-bossa-nova.html#comments</comments>
+		<pubDate>Sat, 12 Apr 2014 13:26:54 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Bass Lines & Grooves]]></category>
+		<category><![CDATA[bossa nova]]></category>
+
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=5712</guid>
+		<description><![CDATA[<p>As you’ll hear in this lesson, there’s a good reason why I want you to learn the fundamentals of playing the bossa nova. I got myself into a sticky situation in the past, and I want to save you the...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-lines-grooves/exporing-bossa-nova.html">Exploring the Bossa Nova (L#104)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>As you’ll hear in this lesson, there’s a good reason why I want you to learn the fundamentals of playing the bossa nova. I got myself into a sticky situation in the past, and I want to save you the same embarrassment. You’ll have to watch the lesson to find out what happened!</p>
+<p>The bossa nova is one of the most popular and widely used of the latin style bass lines, so if you’re looking to work as a professional bass player getting this into your tool bag is a must. It’s also a great way of learning and practicing your <a href="http://www.scottsbasslessons.com/improvisation/practice-bass-arpeggios.html">chord tones/arpeggios</a> but in a more musical way than just running up and down the fingerboard. Because the bossa nova is of a medium tempo, it will give you time to actually think about your note choice and fretboard visualisation, something that can be tough within faster tempo’s.</p>
+<p>Once you’ve worked through the lesson I recommend that you look beyond the bossa nova and research other latin styles of music. As the rhythm’s used within within this genre of music can be so syncopated, for a bassist there is is a lot learn from this… and it can be a lot of fun too!</p>
+<p>As always... see you in the shed,</p>
+<p>Scott :)<br />
+<div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/OjpQqrXJ5-Y" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-lines-grooves/exporing-bossa-nova.html">Exploring the Bossa Nova (L#104)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/bass-lines-grooves/exporing-bossa-nova.html/feed</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Bass_Lines_and_Grooves/Bossa-nova-lesson.mp4" length="103846796" type="video/mp4" />
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Bass+Lines+%26+Grooves/Exploring_Bossa_nova.mp3" length="16177154" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

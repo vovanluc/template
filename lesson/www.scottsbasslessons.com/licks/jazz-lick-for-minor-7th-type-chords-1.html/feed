@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Jazz Lick for Minor-7th Type Chords #1 (L#39)</title>
+	<atom:link href="http://www.scottsbasslessons.com/licks/jazz-lick-for-minor-7th-type-chords-1.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com/licks/jazz-lick-for-minor-7th-type-chords-1.html</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Wed, 19 Jul 2017 21:18:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>By: stuart</title>
+		<link>http://www.scottsbasslessons.com/licks/jazz-lick-for-minor-7th-type-chords-1.html#comment-4492</link>
+		<dc:creator><![CDATA[stuart]]></dc:creator>
+		<pubDate>Mon, 04 Mar 2013 00:34:03 +0000</pubDate>
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=1286#comment-4492</guid>
+		<description><![CDATA[I know you are asking scott, but when a chord contains a 7th, instead of there being a 2nd, a 4th, and a 6th, they would then become the 9th 11th and 13th, as well as the # and b of each. So when you se a 
+g-7(b9) the chord would be spelled G Bb D F Ab.. Hope that helps. Also they are referred to as tensions. When the chord does not contain a 7th, that is when you will see add 2 add 4 add 6 as well as the # and b of each. Hope that makes since]]></description>
+		<content:encoded><![CDATA[<p>I know you are asking scott, but when a chord contains a 7th, instead of there being a 2nd, a 4th, and a 6th, they would then become the 9th 11th and 13th, as well as the # and b of each. So when you se a<br />
+g-7(b9) the chord would be spelled G Bb D F Ab.. Hope that helps. Also they are referred to as tensions. When the chord does not contain a 7th, that is when you will see add 2 add 4 add 6 as well as the # and b of each. Hope that makes since</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Mac</title>
+		<link>http://www.scottsbasslessons.com/licks/jazz-lick-for-minor-7th-type-chords-1.html#comment-3538</link>
+		<dc:creator><![CDATA[Mac]]></dc:creator>
+		<pubDate>Fri, 11 Jan 2013 21:21:16 +0000</pubDate>
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=1286#comment-3538</guid>
+		<description><![CDATA[Trying hard to wrap my little brain around music theory or music term usage:  :-)
+
+A few questions in that context:
+
+1. You mention the F# in the context of Emin as being the &quot;9th&quot;, even though
+the F# is the 2nd note in the Emin scale..is that the convention to identify the 2nd
+as the 9th, even though the notes are in the same octave?
+
+2. Would it be accurate to identify the lick in an Emin context as being Emin11?
+    and in a Gmaj context as Gmaj13..or maybe Gmaj6/9 since there is no 11?
+     E   F#   G     B  D  A                               G  A B   D  E        F# 
+     1 2(9)   b3   5  7  4 (11)                         1 9  3  5  6(13)   7  
+
+Well, even more pertinent, are the naming conventions strict or the usage more dependant on how the user learned them.  :-)
+
+Thx]]></description>
+		<content:encoded><![CDATA[<p>Trying hard to wrap my little brain around music theory or music term usage:  :-)</p>
+<p>A few questions in that context:</p>
+<p>1. You mention the F# in the context of Emin as being the &#8220;9th&#8221;, even though<br />
+the F# is the 2nd note in the Emin scale..is that the convention to identify the 2nd<br />
+as the 9th, even though the notes are in the same octave?</p>
+<p>2. Would it be accurate to identify the lick in an Emin context as being Emin11?<br />
+    and in a Gmaj context as Gmaj13..or maybe Gmaj6/9 since there is no 11?<br />
+     E   F#   G     B  D  A                               G  A B   D  E        F#<br />
+     1 2(9)   b3   5  7  4 (11)                         1 9  3  5  6(13)   7  </p>
+<p>Well, even more pertinent, are the naming conventions strict or the usage more dependant on how the user learned them.  :-)</p>
+<p>Thx</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

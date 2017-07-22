@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>harmonics &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/harmonics/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Using harmonics within Your Bass Grooves &#8211; Bass Riff of the Week #18 (L#146)</title>
+		<link>http://www.scottsbasslessons.com/riff-of-the-week/using-harmonics-bass-grooves-lesson.html</link>
+		<comments>http://www.scottsbasslessons.com/riff-of-the-week/using-harmonics-bass-grooves-lesson.html#comments</comments>
+		<pubDate>Tue, 23 Dec 2014 11:53:57 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Riff of the Week]]></category>
+		<category><![CDATA[harmonics]]></category>
+
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=8727</guid>
+		<description><![CDATA[<p>For this weeks Bass Riff of the Week I thought it'd be cool to show you a riff that incorporates harmonics within a groove. When using harmonics it's more common to incorporate them within a melody line or use them...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/riff-of-the-week/using-harmonics-bass-grooves-lesson.html">Using harmonics within Your Bass Grooves &#8211; Bass Riff of the Week #18 (L#146)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>For this weeks Bass Riff of the Week I thought it'd be cool to show you a riff that incorporates harmonics within a groove.</p>
+<p>When using harmonics it's more common to incorporate them within a melody line or use them to enhance a lower bass note. You can hear bass players such as Jaco Pastorius doing this with incredible finesse and musicality.</p>
+<p>Another more uncommon technique is to use harmonics within an actual groove to flesh out the harmony. It can be technically quite tricky to get the harmonics to continue ringing out while the bass line is being played... but hey, if it were easy it wouldn't be as fun ;)</p>
+<p>As always, see you in the shed...</p>
+<p>Scott :)</p>
+<p>PS. You can download the play-along track, TAB &amp; notation directly under the video. If you're an <a href="http://www.scottsbasslessons.com/bass-academy">SBL Academy member</a> you can also download the full video file so you can watch these lessons offline plus the audio only version too. Not an Academy member yet... check it out <a href="http://www.scottsbasslessons.com/bass-academy" target="_blank">here!</a></p>
+<p><div class="video_wrap "><iframe src="//www.youtube.com/embed/_XR8lD2WEqs" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> </p>
+</p>
+<p><a href="http://www.scottsbasslessons.com/bass-riff-18" target="_blank"><strong>Click here to download the free play-along track, TAB and notation for this Bass Riff Of The Week!</strong></a>
+
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/riff-of-the-week/using-harmonics-bass-grooves-lesson.html">Using harmonics within Your Bass Grooves &#8211; Bass Riff of the Week #18 (L#146)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/riff-of-the-week/using-harmonics-bass-grooves-lesson.html/feed</wfw:commentRss>
+		<slash:comments>9</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Riff+of+the+Week/L146_BROTW_18_Video.mp4" length="79410928" type="video/mp4" />
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Riff+of+the+Week/L146_BROTW_18_Audio.mp3" length="13205047" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

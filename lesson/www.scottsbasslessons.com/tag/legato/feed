@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>legato &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/legato/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Playing Fast Legato Lines on the Bass! (L#49)</title>
+		<link>http://www.scottsbasslessons.com/technique/fast-legato-lines-on-the-bass.html</link>
+		<comments>http://www.scottsbasslessons.com/technique/fast-legato-lines-on-the-bass.html#comments</comments>
+		<pubDate>Sun, 06 Nov 2011 21:11:58 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Technique]]></category>
+		<category><![CDATA[hammer-on]]></category>
+		<category><![CDATA[legato]]></category>
+		<category><![CDATA[pull-off]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=1503</guid>
+		<description><![CDATA[<p>This new bass lesson deals with legato playing. What is legato playing? It's combining hammer-ons and pull-offs, which implies that to play legato, you first have to master hammer-ons and pull-offs… So if you haven't already, practice that first. This...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/fast-legato-lines-on-the-bass.html">Playing Fast Legato Lines on the Bass! (L#49)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>This new bass lesson deals with legato playing. What is legato playing? It's combining hammer-ons and pull-offs, which implies that to play legato, you first have to master hammer-ons and pull-offs… So if you haven't already, practice that first. This video will show you what they are, in case you don't know.</p>
+<p>Legato playing allows you, among other things, to play very fast lines using mostly your fretting hand, the <a href="http://www.scottsbasslessons.com/technique/right-hand-technique-bass.html">plucking hand</a> being used only to play the first note on each string. A guy like Jeff Berlin uses legato a lot. But we're not going to start with a solo from Jeff's… No sloppy bass playing here! ;)</p>
+<p>We're going to start a bit smaller with a <a href="http://www.scottsbasslessons.com/technique/fast-legato-lines-on-the-bass.html">major scale</a>, making sure we're getting a nice strong attack on every note, equal tempo, and that our notes sound even!</p>
+<p>We'll use hammer-ons ascending and pull-offs descending… One note concerning the pull-offs: make sure you don't lift up the strings but rather pull them down. If necessary, experiment a bit with that and it will be pretty obvious that your sound is much better when you pull the strings down. Of course you can use lift-ups too, in another context, but not here.</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/IKd0n4nn19c" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+</p>
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/fast-legato-lines-on-the-bass.html">Playing Fast Legato Lines on the Bass! (L#49)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/technique/fast-legato-lines-on-the-bass.html/feed</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Technique/playing_fast_legato_lines_on_bass.mp4" length="44191895" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

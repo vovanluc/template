@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>changes &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/changes/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Are You Playing Around The Changes Yet? (L#97)</title>
+		<link>http://www.scottsbasslessons.com/improvisation/are-you-playing-around-the-changes-yet.html</link>
+		<comments>http://www.scottsbasslessons.com/improvisation/are-you-playing-around-the-changes-yet.html#comments</comments>
+		<pubDate>Mon, 09 Dec 2013 16:05:20 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Improvisation]]></category>
+		<category><![CDATA[changes]]></category>
+		<category><![CDATA[playing]]></category>
+
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=4869</guid>
+		<description><![CDATA[<p>If you've even felt that you're "bluffing" a little when you're trying to solo (I know I used too!), in this lesson I'm going to to give you three great exercises that will give you more confidence when soloing, give...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/improvisation/are-you-playing-around-the-changes-yet.html">Are You Playing Around The Changes Yet? (L#97)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>If you've even felt that you're "bluffing" a little when you're trying to solo (I know I used too!), in this lesson I'm going to to give you three great exercises that will give you more confidence when soloing, give your solos a more melodic feel and sound to them , plus give you way more control over your note choice and fretboard knowledge.</p>
+<p>As always, grab your bass and I'll see you in the shed!</p>
+<p>Scott :)<br />
+<div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/FU3Pv8N473U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+</p>
+<p><a href="https://s3.amazonaws.com/ScottsBassLessons/L%2397+Free+Chord+Chart++.pdf" target="_blank">Free Chord Chart For This Lesson</a></p>
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/improvisation/are-you-playing-around-the-changes-yet.html">Are You Playing Around The Changes Yet? (L#97)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/improvisation/are-you-playing-around-the-changes-yet.html/feed</wfw:commentRss>
+		<slash:comments>15</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Improvisation/Are_you_playing_around_the_changes.mp4" length="165799131" type="video/mp4" />
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Improvisation/Are+You+Playing+Around+The+Changes+Yet-+Watch+This+Bass+Lesson!.mp3" length="26070628" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

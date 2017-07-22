@@ -1,0 +1,13 @@
+/*
+Theme Name: Scott's Bass Lessons
+Theme URI: http://www.scottsbasslessons.com
+Author: Tom Ross (Design), Mike Morrison (Development)
+Author URI: http://www.wedowp.co.uk/
+Description: An awesome custom theme for Scott's Bass Lessons
+Version: 1.0
+*/
+@import url("styles/style3860.css?v=1");
+
+select#s2member-pro-paypal-checkout-options {
+    height: 100px!important;
+}

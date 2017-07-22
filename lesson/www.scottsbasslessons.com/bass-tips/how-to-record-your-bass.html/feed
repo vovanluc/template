@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Recording Your Bass &#8211; Mic&#8217;s, D.I&#8217;s and More (L#175)</title>
+	<atom:link href="http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Wed, 19 Jul 2017 21:18:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>By: Fernando Soto Silva</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-17587</link>
+		<dc:creator><![CDATA[Fernando Soto Silva]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2016 12:45:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-17587</guid>
+		<description><![CDATA[Bass  &#062;  Amp  &#062;  Amp D.I  &#062; Analog Mixer (Studer/Revox one, a little extra warm  dosis)  &#062; Interface  &#062;  D.A.W]]></description>
+		<content:encoded><![CDATA[<p>Bass  &gt;  Amp  &gt;  Amp D.I  &gt; Analog Mixer (Studer/Revox one, a little extra warm  dosis)  &gt; Interface  &gt;  D.A.W</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jonathan Naime</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-17172</link>
+		<dc:creator><![CDATA[Jonathan Naime]]></dc:creator>
+		<pubDate>Fri, 03 Jun 2016 06:10:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-17172</guid>
+		<description><![CDATA[Hello Keith,
+
+Thanks for your answer, yes I&#039;m still playing, and I love bass more than ever !! It&#039;s why I changed all my rig. Now I have a Sire Marcus Miller V7 with an Aguilar TH350 and I have a DI output on the front panel :)]]></description>
+		<content:encoded><![CDATA[<p>Hello Keith,</p>
+<p>Thanks for your answer, yes I&#8217;m still playing, and I love bass more than ever !! It&#8217;s why I changed all my rig. Now I have a Sire Marcus Miller V7 with an Aguilar TH350 and I have a DI output on the front panel :)</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Keith Wallace</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-17171</link>
+		<dc:creator><![CDATA[Keith Wallace]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2016 23:09:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-17171</guid>
+		<description><![CDATA[Hi Jonathan. You&#039;d need a DI box if the final thing in your chain is expecting a microphone level input, like a mixing desk. Or only has a 3 pin XLR input socket. Or if your bass signal is too hot (level too high) and you are getting distortion when you record. Or finally, if you have a really really long cable run and you are getting interference.
+
+In your case none of these things should apply, so no you don&#039;t need a DI box. The Scarlett 2i2 is designed to take in an input at Line Level, which is what your amp is putting out. If you are getting distortion, you can turn down the gain dial until it&#039;s green, or change between the Instrument and Mic switch.
+
+Hope you&#039;re still playing 9 months on!]]></description>
+		<content:encoded><![CDATA[<p>Hi Jonathan. You&#8217;d need a DI box if the final thing in your chain is expecting a microphone level input, like a mixing desk. Or only has a 3 pin XLR input socket. Or if your bass signal is too hot (level too high) and you are getting distortion when you record. Or finally, if you have a really really long cable run and you are getting interference.</p>
+<p>In your case none of these things should apply, so no you don&#8217;t need a DI box. The Scarlett 2i2 is designed to take in an input at Line Level, which is what your amp is putting out. If you are getting distortion, you can turn down the gain dial until it&#8217;s green, or change between the Instrument and Mic switch.</p>
+<p>Hope you&#8217;re still playing 9 months on!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Keith Wallace</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-17170</link>
+		<dc:creator><![CDATA[Keith Wallace]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2016 23:02:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-17170</guid>
+		<description><![CDATA[Thanks Jakub. I&#039;m definitely now leaning towards recording it how you want it to sound - get it right at the source rather than correcting for it later in EQ. This seems to be the general recording advice for all the other instruments and vocals so I guess it should apply to bass too.]]></description>
+		<content:encoded><![CDATA[<p>Thanks Jakub. I&#8217;m definitely now leaning towards recording it how you want it to sound &#8211; get it right at the source rather than correcting for it later in EQ. This seems to be the general recording advice for all the other instruments and vocals so I guess it should apply to bass too.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Jakub Jankovič</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-17169</link>
+		<dc:creator><![CDATA[Jakub Jankovič]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2016 20:16:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-17169</guid>
+		<description><![CDATA[Hello, I can recomend the other video where Warren is talking about bass recording. It&#039;s here on the courses section. the thing he is doing there ist just putting little compression and EQ during recording so the print is already compressed when recorded. I think it&#039;s better then doing compression after because you can hear the exact sound while recording so you can adjust your playing to that exact sound you are getting. ]]></description>
+		<content:encoded><![CDATA[<p>Hello, I can recomend the other video where Warren is talking about bass recording. It&#8217;s here on the courses section. the thing he is doing there ist just putting little compression and EQ during recording so the print is already compressed when recorded. I think it&#8217;s better then doing compression after because you can hear the exact sound while recording so you can adjust your playing to that exact sound you are getting. </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Christopher Michael Willett</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-17166</link>
+		<dc:creator><![CDATA[Christopher Michael Willett]]></dc:creator>
+		<pubDate>Thu, 02 Jun 2016 17:15:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-17166</guid>
+		<description><![CDATA[Marco, funny you ask since just a few weeks ago my old audio interface died so I was looking to try a new one. Based on reviews and recommendations and price, I got the Focusrite Scarlett 2i2...which I liked for its simplicity. It sounded pretty good for my four string fender basses, however, it just couldn&#039;t handle my active Fender Jazz V. I tried many variations of settings between the interface and my recording software (GarageBand) and just couldn&#039;t get the low B sounding right without compromising the overall sound, it would clip and distort way more than I found tolerable. There is probably a way I could have made it work, but I decided to simply try another highly recommended interface, the Audient iD14. So far it has been working wonderfully with my Jazz V, no clipping or anything and it sounds amazing. It&#039;s a bit more expensive than the Focusrite, but much cheaper than Apogee or Apollo. I hadn&#039;t considered it but you&#039;re probably right that perhaps the lack of a &quot;pad&quot; or &quot;soft limit&quot; is why I was having issues. ]]></description>
+		<content:encoded><![CDATA[<p>Marco, funny you ask since just a few weeks ago my old audio interface died so I was looking to try a new one. Based on reviews and recommendations and price, I got the Focusrite Scarlett 2i2&#8230;which I liked for its simplicity. It sounded pretty good for my four string fender basses, however, it just couldn&#8217;t handle my active Fender Jazz V. I tried many variations of settings between the interface and my recording software (GarageBand) and just couldn&#8217;t get the low B sounding right without compromising the overall sound, it would clip and distort way more than I found tolerable. There is probably a way I could have made it work, but I decided to simply try another highly recommended interface, the Audient iD14. So far it has been working wonderfully with my Jazz V, no clipping or anything and it sounds amazing. It&#8217;s a bit more expensive than the Focusrite, but much cheaper than Apogee or Apollo. I hadn&#8217;t considered it but you&#8217;re probably right that perhaps the lack of a &#8220;pad&#8221; or &#8220;soft limit&#8221; is why I was having issues. </p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Paul Abrahams</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16469</link>
+		<dc:creator><![CDATA[Paul Abrahams]]></dc:creator>
+		<pubDate>Sat, 26 Sep 2015 05:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16469</guid>
+		<description><![CDATA[Very nice indeed. Straight in does a good job. I use to own the Apogee duet? and prefer the Saffire, more versatile, better quality for the price.]]></description>
+		<content:encoded><![CDATA[<p>Very nice indeed. Straight in does a good job. I use to own the Apogee duet? and prefer the Saffire, more versatile, better quality for the price.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Marco Bortolotti</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16467</link>
+		<dc:creator><![CDATA[Marco Bortolotti]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2015 16:33:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16467</guid>
+		<description><![CDATA[Hi Paul, thanks for your reply. Not trusting too much the 2i2 (which, by the way, seems to have no clipping problems if you use a DI), I ended up buying the 2i4 ($190) and it works just fine even plugging the active bass straight into the Mic input. No DI and no amp. Ok for recording demos.]]></description>
+		<content:encoded><![CDATA[<p>Hi Paul, thanks for your reply. Not trusting too much the 2i2 (which, by the way, seems to have no clipping problems if you use a DI), I ended up buying the 2i4 ($190) and it works just fine even plugging the active bass straight into the Mic input. No DI and no amp. Ok for recording demos.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Paul Abrahams</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16466</link>
+		<dc:creator><![CDATA[Paul Abrahams]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2015 15:50:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16466</guid>
+		<description><![CDATA[Hi, I use a Saffire Pro 24 DSP never had any problems with clipping. Depends where you set the input levels, shouldn&#039;t need to use a pad. Maybe people are trying to drive a guitar and pedal train into it. (shrugs shoulders) I can go straight in, via amp or DI, no problems. I use passive basses but I see no problems with active basses. It could be a driver issue?...not sure on that. Have you bought anything yet? I see the 2i4 online for around $200.]]></description>
+		<content:encoded><![CDATA[<p>Hi, I use a Saffire Pro 24 DSP never had any problems with clipping. Depends where you set the input levels, shouldn&#8217;t need to use a pad. Maybe people are trying to drive a guitar and pedal train into it. (shrugs shoulders) I can go straight in, via amp or DI, no problems. I use passive basses but I see no problems with active basses. It could be a driver issue?&#8230;not sure on that. Have you bought anything yet? I see the 2i4 online for around $200.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Paul Abrahams</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16465</link>
+		<dc:creator><![CDATA[Paul Abrahams]]></dc:creator>
+		<pubDate>Fri, 25 Sep 2015 15:45:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16465</guid>
+		<description><![CDATA[Great to see how you record bass. My signal chain is usually bass, genz benz, post eq into a Saffire. I do have a Brick lying around I&#039;m going to try adding a mic track as well to add some rounder bottom end.]]></description>
+		<content:encoded><![CDATA[<p>Great to see how you record bass. My signal chain is usually bass, genz benz, post eq into a Saffire. I do have a Brick lying around I&#8217;m going to try adding a mic track as well to add some rounder bottom end.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Marco Bortolotti</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16431</link>
+		<dc:creator><![CDATA[Marco Bortolotti]]></dc:creator>
+		<pubDate>Wed, 16 Sep 2015 08:07:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16431</guid>
+		<description><![CDATA[Hi Scott and hi everyone. 
+
+
+I was about to buy the Focusrite 2ì2, then I heard it has some clipping issues, especially with active basses like mine (a lovely Musicman StingRay). 
+Have you ever experienced any of those issues? 
+I also heard that the Focusrite 2i4 does not have those issues because there&#039;s a &quot;pad&quot; button for each input channel, but it&#039;s more expensive. 
+Any suggestion?
+
+
+Thank you very much!]]></description>
+		<content:encoded><![CDATA[<p>Hi Scott and hi everyone. </p>
+<p>I was about to buy the Focusrite 2ì2, then I heard it has some clipping issues, especially with active basses like mine (a lovely Musicman StingRay).<br />
+Have you ever experienced any of those issues?<br />
+I also heard that the Focusrite 2i4 does not have those issues because there&#8217;s a &#8220;pad&#8221; button for each input channel, but it&#8217;s more expensive.<br />
+Any suggestion?</p>
+<p>Thank you very much!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Piotr Wiszniewski</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16430</link>
+		<dc:creator><![CDATA[Piotr Wiszniewski]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2015 20:54:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16430</guid>
+		<description><![CDATA[Hi Scott, what are the bad things you have heard of? Obviously I am familiarised with the good ones ;) But there is another thing that I need to ask. Have you ever switched the instruments during recording one song? I mean to have a one certain tone in verse and another in chorus, bridge, etc. Or maybe overdubs? This is quite common application when recording guitars, but not sure how does it look like when it comes to tracking a bass. I will be trying that in the next few days anyway, but just wanted to know your opinion. Cheers!]]></description>
+		<content:encoded><![CDATA[<p>Hi Scott, what are the bad things you have heard of? Obviously I am familiarised with the good ones ;) But there is another thing that I need to ask. Have you ever switched the instruments during recording one song? I mean to have a one certain tone in verse and another in chorus, bridge, etc. Or maybe overdubs? This is quite common application when recording guitars, but not sure how does it look like when it comes to tracking a bass. I will be trying that in the next few days anyway, but just wanted to know your opinion. Cheers!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: TheGrue</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16429</link>
+		<dc:creator><![CDATA[TheGrue]]></dc:creator>
+		<pubDate>Tue, 15 Sep 2015 15:36:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16429</guid>
+		<description><![CDATA[Great tutorial, thanks! I just was reading up on James Jamerson, and although not everyone agrees, the most likely consensus is his famous sessions were done direct through a home made (made by the studio engineer) tube DI. I bet the BAE 1073 is pretty similar to this.]]></description>
+		<content:encoded><![CDATA[<p>Great tutorial, thanks! I just was reading up on James Jamerson, and although not everyone agrees, the most likely consensus is his famous sessions were done direct through a home made (made by the studio engineer) tube DI. I bet the BAE 1073 is pretty similar to this.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: DeepFrequency</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16427</link>
+		<dc:creator><![CDATA[DeepFrequency]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2015 17:35:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16427</guid>
+		<description><![CDATA[Thanks Duke, yes I meant treble. I will try increasing the cap. and I will check the pot value. I may not have put back the same as I took out. Wish I could track done Dumble to have him put it right again. Once I messed with it there is no getting it back the way he had it. C&#039;est la vie.]]></description>
+		<content:encoded><![CDATA[<p>Thanks Duke, yes I meant treble. I will try increasing the cap. and I will check the pot value. I may not have put back the same as I took out. Wish I could track done Dumble to have him put it right again. Once I messed with it there is no getting it back the way he had it. C&#8217;est la vie.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Duke</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/how-to-record-your-bass.html#comment-16426</link>
+		<dc:creator><![CDATA[Duke]]></dc:creator>
+		<pubDate>Mon, 14 Sep 2015 02:02:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=11715#comment-16426</guid>
+		<description><![CDATA[A couple of questions.
+By &quot;thin&quot; do you mean bright or loss of volume?
+If it&#039;s too bright (treble) try increasing the cap value.
+For instance, if the existing cap is a .022 try increasing the value to.050 or more.
+A big part of the reason early Fender P-basses sounded so &quot;dark&quot; or boomy was because of the 1.0 capacitors he used.
+Many moons ago I found lowering them to .022 would make a P=Bass &quot;squawk&#039; like a Rickenbacker with the tone pot dimed.
+Another trick is to change the pots from 250k to 500k.or vice versa depending on what you want to hear.
+BTW:  Nice bass and good bio.  We share similar interests and influences.]]></description>
+		<content:encoded><![CDATA[<p>A couple of questions.<br />
+By &#8220;thin&#8221; do you mean bright or loss of volume?<br />
+If it&#8217;s too bright (treble) try increasing the cap value.<br />
+For instance, if the existing cap is a .022 try increasing the value to.050 or more.<br />
+A big part of the reason early Fender P-basses sounded so &#8220;dark&#8221; or boomy was because of the 1.0 capacitors he used.<br />
+Many moons ago I found lowering them to .022 would make a P=Bass &#8220;squawk&#8217; like a Rickenbacker with the tone pot dimed.<br />
+Another trick is to change the pots from 250k to 500k.or vice versa depending on what you want to hear.<br />
+BTW:  Nice bass and good bio.  We share similar interests and influences.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

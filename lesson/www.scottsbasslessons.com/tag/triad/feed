@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>triad &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/triad/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Using Triads To Create Bass Lines (L#57)</title>
+		<link>http://www.scottsbasslessons.com/bass-lines-grooves/using-triads-to-create-bass-lines.html</link>
+		<comments>http://www.scottsbasslessons.com/bass-lines-grooves/using-triads-to-create-bass-lines.html#comments</comments>
+		<pubDate>Mon, 12 Mar 2012 12:09:54 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Bass Lines & Grooves]]></category>
+		<category><![CDATA[Beginners]]></category>
+		<category><![CDATA[create]]></category>
+		<category><![CDATA[triad]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=2223</guid>
+		<description><![CDATA[<p>Understanding and using triads within your bass lines is really going to help you grow not only a bass player but also as a musician. Triads are chords in there most simplistic form. As bass players we can utilize the...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-lines-grooves/using-triads-to-create-bass-lines.html">Using Triads To Create Bass Lines (L#57)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Understanding and using triads within your bass lines is really going to help you grow not only a bass player but also as a musician. Triads are chords in there most simplistic form. As bass players we can utilize the triads within our bass lines and from doing so it helps us expand on the information we already have available under our fingers on the fretboard. Remember... it's important to understand why we play the notes we play and not to just play by ear. If you're just '<a href="https://www.scottsbasslessons.com/beginners/bass-tip-2-ear-training.html">playing by ear</a>' it's like making a speech or talk about a topic you don't really understand... all it takes is a little practice and you'll get it!</p>
+<p>So... get in the shed! ;)</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/T0dr3rH7zxI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+</p>
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-lines-grooves/using-triads-to-create-bass-lines.html">Using Triads To Create Bass Lines (L#57)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/bass-lines-grooves/using-triads-to-create-bass-lines.html/feed</wfw:commentRss>
+		<slash:comments>52</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Beginners/using_triads_to_create_bass_lines.mp4" length="166484721" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

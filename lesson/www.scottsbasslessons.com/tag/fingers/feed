@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fingers &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/fingers/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>How to stop &#8220;Flying Fingers&#8221;! (L#105)</title>
+		<link>http://www.scottsbasslessons.com/technique/fretting-hand-technique-exercise.html</link>
+		<comments>http://www.scottsbasslessons.com/technique/fretting-hand-technique-exercise.html#comments</comments>
+		<pubDate>Thu, 15 May 2014 07:02:39 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Technique]]></category>
+		<category><![CDATA[fingers]]></category>
+		<category><![CDATA[flying]]></category>
+
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=5936</guid>
+		<description><![CDATA[<p>"Flying Fingers"... this used to drive me crazy! The best way of describing this, is when you push down a note on the neck with your index or middle fingers, your ring and pinkie finger seem to uncontrollably stick out...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/fretting-hand-technique-exercise.html">How to stop &#8220;Flying Fingers&#8221;! (L#105)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>"Flying Fingers"... this used to drive me crazy! The best way of describing this, is when you push down a note on the neck with your index or middle fingers, your ring and pinkie finger seem to uncontrollably stick out from the fretboard. I used to suffer from this, as do most of the students I've ever worked with.</p>
+<p>Don't worry... there is a fix! In this lesson I show you a simple exercise you can apply immediately. If you use this exercise every day for just a few minutes (I recommend around 10-20 minutes per day or practice session) you'll start to see improvements in your <a href="http://www.scottsbasslessons.com/technique/right-and-left-hand-positioning.html">fretting hand </a>technique, fast.</p>
+<p>As always, see you in the shed...</p>
+<p>Scott :)<br />
+<div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/7RpTyu6U-Jg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+<br />
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/fretting-hand-technique-exercise.html">How to stop &#8220;Flying Fingers&#8221;! (L#105)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/technique/fretting-hand-technique-exercise.html/feed</wfw:commentRss>
+		<slash:comments>19</slash:comments>
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Technique/L%23105_Flying_Fingers.mp3" length="8625049" type="audio/mpeg" />
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Technique/L%23105Flying_Fingers+.mp4" length="187391345" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>melody &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/melody/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>The Importance of Melody (L#64)</title>
+		<link>http://www.scottsbasslessons.com/improvisation/the-importance-of-melody.html</link>
+		<comments>http://www.scottsbasslessons.com/improvisation/the-importance-of-melody.html#comments</comments>
+		<pubDate>Thu, 10 May 2012 14:03:32 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Improvisation]]></category>
+		<category><![CDATA[melody]]></category>
+		<category><![CDATA[soloing]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=2368</guid>
+		<description><![CDATA[<p>This lesson is all about melody! As bass players, we generally play… bass lines most of the time, rather than melodies. So if you're not used to soloing, it can be a pretty scary experience at first, because you're not...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/improvisation/the-importance-of-melody.html">The Importance of Melody (L#64)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>This lesson is all about melody! As bass players, we generally play… bass lines most of the time, rather than melodies. So if you're not used to soloing, it can be a pretty scary experience at first, because you're not used to playing melodies.</p>
+<p>Even if you know all your <a href="http://www.scottsbasslessons.com/improvisation/practice-bass-scales.html">scales</a>, <a href="http://www.scottsbasslessons.com/improvisation/practice-bass-arpeggios.html">arpeggios</a>, etc. you probably won't know what to do with them when you first start soloing. Everything will probably sound very rigid, simply because… you're not used to playing melodies!</p>
+<p>So, let's take a well-known melody and see what we can get out of it. We'll start playing the melody completely straight with the metronome --that is without 'pushing' or 'pulling' and, when we're comfortable with that, I'll show you what I mean by pushing and pulling against the metronome.</p>
+<p>Then you can take any melody that comes to your mind and play with it in the same way. Not only is that fun, but it will improve your soloing big time!</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/d0Q3fxoKDko" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/improvisation/the-importance-of-melody.html">The Importance of Melody (L#64)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/improvisation/the-importance-of-melody.html/feed</wfw:commentRss>
+		<slash:comments>8</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Improvisation/The_importance_of_melody.mp4" length="142784746" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chord tones &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/chord-tones/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Chord Tones / Only One Position Exercise (L#42)</title>
+		<link>http://www.scottsbasslessons.com/improvisation/chord-tones-bass-exercise.html</link>
+		<comments>http://www.scottsbasslessons.com/improvisation/chord-tones-bass-exercise.html#comments</comments>
+		<pubDate>Mon, 17 Oct 2011 17:59:16 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Improvisation]]></category>
+		<category><![CDATA[chord tones]]></category>
+		<category><![CDATA[soloing]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=1200</guid>
+		<description><![CDATA[<p>This new bass lesson is about soloing using only "chord tones". What are chord tones? Thanks for asking, Thomas G.! You're giving me the opportunity to add this piece of info up here in addition to my response in the...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/improvisation/chord-tones-bass-exercise.html">Chord Tones / Only One Position Exercise (L#42)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>This new bass lesson is about soloing using only "chord tones".</p>
+<p>What are chord tones? Thanks for asking, Thomas G.! You're giving me the opportunity to add this piece of info up here in addition to my response in the comments area ;). A chord tone is just a note that exists within a certain chord. So, for instance, the chord of C major is made from 3 notes – C, E, G – they are called the "chord tones". For Dm7, the chord tones are D, F, G, Bb,</p>
+<p>There are many many ways to approach soloing. Do you <em>have to</em> know all your arpeggios, scales, modes, etc., before you can even <em>start</em> soloing --and make it sound great? Of course not. But exploring and practicing them will certainly open up new horizons for you and enrich your musical vocabulary and grammar.</p>
+<p>That being said, I think that if there's one thing you should know before you start soloing, it would be your chord tones. You should know them and be able to visualise them on the neck. The simple exercise I'm giving you in this lesson, has proven to be very effective and I highly recommend you practice it regularily!</p>
+<p>What we're gonna do is solo over the <em>Autumn Leaves</em> progression using <em>only</em> chord tones AND staying in <em>one</em> position. Hopefully you'll see that you can create a meaningful solo without using a ton of stuff.</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/wzfC1hzARSY" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+</p>
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/improvisation/chord-tones-bass-exercise.html">Chord Tones / Only One Position Exercise (L#42)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/improvisation/chord-tones-bass-exercise.html/feed</wfw:commentRss>
+		<slash:comments>20</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Improvisation/Chord_tones_only_one_position_ex.mp4" length="35368756" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

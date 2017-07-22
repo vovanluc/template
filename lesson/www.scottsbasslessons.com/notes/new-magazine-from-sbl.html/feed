@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: New Magazine From SBL &#8211; Get Your Free Issue Today!</title>
+	<atom:link href="http://www.scottsbasslessons.com/notes/new-magazine-from-sbl.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com/notes/new-magazine-from-sbl.html</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Wed, 19 Jul 2017 21:18:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>By: Joseph Romano</title>
+		<link>http://www.scottsbasslessons.com/notes/new-magazine-from-sbl.html#comment-17203</link>
+		<dc:creator><![CDATA[Joseph Romano]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2016 16:52:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=14327#comment-17203</guid>
+		<description><![CDATA[this is great i can not wait!!]]></description>
+		<content:encoded><![CDATA[<p>this is great i can not wait!!</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Arno</title>
+		<link>http://www.scottsbasslessons.com/notes/new-magazine-from-sbl.html#comment-17202</link>
+		<dc:creator><![CDATA[Arno]]></dc:creator>
+		<pubDate>Fri, 17 Jun 2016 15:27:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=14327#comment-17202</guid>
+		<description><![CDATA[This is an awesome development.  Great news for for us on SBL!]]></description>
+		<content:encoded><![CDATA[<p>This is an awesome development.  Great news for for us on SBL!</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

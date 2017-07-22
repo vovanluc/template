@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Solo Bass Arrangement: Have Yourself a Merry Little Christmas</title>
+	<atom:link href="http://www.scottsbasslessons.com/chords/christmas-day.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com/chords/christmas-day.html</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Wed, 19 Jul 2017 21:18:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>By: Marcin</title>
+		<link>http://www.scottsbasslessons.com/chords/christmas-day.html#comment-15720</link>
+		<dc:creator><![CDATA[Marcin]]></dc:creator>
+		<pubDate>Fri, 16 Jan 2015 21:09:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=8731#comment-15720</guid>
+		<description><![CDATA[That is great :) thank you.]]></description>
+		<content:encoded><![CDATA[<p>That is great :) thank you.</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>analysis &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/analysis/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Breaking the Rules to Create Awesome Grooves &#8211; &#8220;Groove Analysis&#8221; (L#109)</title>
+		<link>http://www.scottsbasslessons.com/bass-lines-grooves/breaking-rules-create-awesome-grooves-groove-analysis-l109.html</link>
+		<comments>http://www.scottsbasslessons.com/bass-lines-grooves/breaking-rules-create-awesome-grooves-groove-analysis-l109.html#comments</comments>
+		<pubDate>Thu, 12 Jun 2014 12:40:28 +0000</pubDate>
+		<dc:creator><![CDATA[Geoff Chalmers]]></dc:creator>
+				<category><![CDATA[Bass Lines & Grooves]]></category>
+		<category><![CDATA[analysis]]></category>
+
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=6149</guid>
+		<description><![CDATA[<p>In this bass lesson I’m going to demonstrate how you can use the minor blues scale to create bass lines and grooves over static dominant chords, i.e. a dominant chord over multiple measures. In this instance G7. Because the G7...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-lines-grooves/breaking-rules-create-awesome-grooves-groove-analysis-l109.html">Breaking the Rules to Create Awesome Grooves &#8211; &#8220;Groove Analysis&#8221; (L#109)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In this bass lesson I’m going to demonstrate how you can use the minor blues scale to create bass lines and grooves over static dominant chords, i.e. a dominant chord over multiple measures. In this instance G7.</p>
+<p>Because the G7 dominant chord contains a major third, using the G minor blues scale (which contains a minor third) really shouldn’t work, but it does… in fact, it sounds fantastic and very hip!</p>
+<p>Let’s look at notes spelled out in detail:</p>
+<p><strong>G7</strong>: G, B, D, F</p>
+<p><strong>G Minor Blues Scale:</strong> G, Bb, C, Db, D, F</p>
+<p>As you’ll be able to see, the G7 contains a B natural, whereas the minor blues scale contains a Bb. This should clash as the notes are a semi tone apart, in fact pick up your bass now and play both notes at the same time. You’ll find that they will clash and sound very dissonant.</p>
+<p>So why does it work within a musical context?</p>
+<p>The reason we can use this common <a href="http://www.scottsbasslessons.com/improvisation/running-out-of-soloing-ideas-try-out-these-awesome-substitutions.html">substitution</a> in a groove and soloing context is due to the strength of the blues scale. The sound of the blues scale has been engrained within us from an early age, you’ll have heard it thousands if not millions of times before and therefore we instantly accept that sound and hear this substitution as a “cool &amp; bluesy”. If you’ve ever listened to guitar players such as Eric Clapton, BB King, Stevie Ray Vaughan… you’re hearing the exact same substitution but in a soloing context.</p>
+<p>So next time you want to create a "cool bluesy vibe" within your bass line or solo, make sure the minor blues scale is at the top of your list.</p>
+<p>As always, see you in the shed.</p>
+<p>Scott :)</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/NI-OEoWWil8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-lines-grooves/breaking-rules-create-awesome-grooves-groove-analysis-l109.html">Breaking the Rules to Create Awesome Grooves &#8211; &#8220;Groove Analysis&#8221; (L#109)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/bass-lines-grooves/breaking-rules-create-awesome-grooves-groove-analysis-l109.html/feed</wfw:commentRss>
+		<slash:comments>21</slash:comments>
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Bass+Lines+%26+Grooves/L%23109_GROOVE+_ANALYSIS.mp3" length="18928997" type="audio/mpeg" />
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Bass_Lines_and_Grooves/L%23109GROOVE_+ANALYSIS.mp4" length="169924968" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

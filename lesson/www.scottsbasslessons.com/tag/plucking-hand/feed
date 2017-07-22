@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>plucking hand &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/plucking-hand/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Killer Dynamics Exercise (L#65)</title>
+		<link>http://www.scottsbasslessons.com/technique/right-hand-dynamics.html</link>
+		<comments>http://www.scottsbasslessons.com/technique/right-hand-dynamics.html#comments</comments>
+		<pubDate>Thu, 24 May 2012 09:43:42 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Beginners]]></category>
+		<category><![CDATA[Technique]]></category>
+		<category><![CDATA[dynamics]]></category>
+		<category><![CDATA[plucking hand]]></category>
+		<category><![CDATA[right hand]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=2379</guid>
+		<description><![CDATA[<p>In this new bass lesson, I'm talking about right hand dynamics on the bass. Many bass players or students coming to me, haven't got particularly good dynamics --if any, and it's a very big flaw as we shall see. Don't...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/right-hand-dynamics.html">Killer Dynamics Exercise (L#65)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In this new bass lesson, I'm talking about <a href="http://www.scottsbasslessons.com/technique/right-and-left-hand-positioning.html">right hand</a> dynamics on the bass. Many bass players or students coming to me, haven't got particularly good dynamics --if any, and it's a very big flaw as we shall see.</p>
+<p>Don't worry… looking into my past, I definitely suffered from this as well, which reminded me of a somewhat painful anecdote I'm sharing with you in this video ;).</p>
+<p>Basically, having poor dynamics equates to speaking in a monotonous voice: it's a real communication killer! If you want to express something on the bass, you must work on your dynamics. I'm giving you cues and exercises...</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/H1230wTqE20" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+<br />
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/right-hand-dynamics.html">Killer Dynamics Exercise (L#65)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/technique/right-hand-dynamics.html/feed</wfw:commentRss>
+		<slash:comments>16</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Beginners/right_hand_dynamics_on_bass.mp4" length="147505340" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: iBass Magazine Will Lee Issue is HERE! (Announcement)</title>
+	<atom:link href="http://www.scottsbasslessons.com/notes/ibass-mag-will-lee.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com/notes/ibass-mag-will-lee.html</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Wed, 19 Jul 2017 21:18:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>By: Johannes Lang</title>
+		<link>http://www.scottsbasslessons.com/notes/ibass-mag-will-lee.html#comment-17332</link>
+		<dc:creator><![CDATA[Johannes Lang]]></dc:creator>
+		<pubDate>Tue, 02 Aug 2016 08:29:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=14390#comment-17332</guid>
+		<description><![CDATA[Is there a way to save the contents on the phone&#039;s SD card instead of system memory?]]></description>
+		<content:encoded><![CDATA[<p>Is there a way to save the contents on the phone&#8217;s SD card instead of system memory?</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Dan Callaway</title>
+		<link>http://www.scottsbasslessons.com/notes/ibass-mag-will-lee.html#comment-17231</link>
+		<dc:creator><![CDATA[Dan Callaway]]></dc:creator>
+		<pubDate>Wed, 06 Jul 2016 00:18:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=14390#comment-17231</guid>
+		<description><![CDATA[There doesn&#039;t seem to be a way to subscribe and get all the back issues, at least not from inside the app.]]></description>
+		<content:encoded><![CDATA[<p>There doesn&#8217;t seem to be a way to subscribe and get all the back issues, at least not from inside the app.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: pricesg</title>
+		<link>http://www.scottsbasslessons.com/notes/ibass-mag-will-lee.html#comment-17230</link>
+		<dc:creator><![CDATA[pricesg]]></dc:creator>
+		<pubDate>Tue, 05 Jul 2016 13:51:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=14390#comment-17230</guid>
+		<description><![CDATA[is there a version of the new IBass magazine for Amazon Kindle?]]></description>
+		<content:encoded><![CDATA[<p>is there a version of the new IBass magazine for Amazon Kindle?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

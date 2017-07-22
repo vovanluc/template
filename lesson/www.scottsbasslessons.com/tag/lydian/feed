@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lydian &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/lydian/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Lydian Type Jazz Lick Bass Lesson #1 (L#45)</title>
+		<link>http://www.scottsbasslessons.com/licks/lydian-type-jazz-lick-bass-lesson-part-1.html</link>
+		<comments>http://www.scottsbasslessons.com/licks/lydian-type-jazz-lick-bass-lesson-part-1.html#comments</comments>
+		<pubDate>Mon, 24 Oct 2011 14:04:59 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Licks]]></category>
+		<category><![CDATA[jazz]]></category>
+		<category><![CDATA[lydian]]></category>
+		<category><![CDATA[soloing]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=1299</guid>
+		<description><![CDATA[<p>In this new bass lesson I'm going to show you a nice lydian jazz lick you can play over a Major 7th chord. What's interesting about this one, is that there's a sharp 11th in it, which creates the "tension". If...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/licks/lydian-type-jazz-lick-bass-lesson-part-1.html">Lydian Type Jazz Lick Bass Lesson #1 (L#45)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In this new bass lesson I'm going to show you a nice lydian jazz lick you can play over a Major 7th chord.</p>
+<p>What's interesting about this one, is that there's a sharp 11th in it, which creates the "tension". If something makes you think of the Simpson's, that's because of this very tension note.</p>
+<p>If you're not used to hearing 11th (or 4th) played over Major 7 chords, it will probably create… tension in your body, which is the point! But after a time, you'll get used to it and it should be a nice tension.</p>
+<p>If you haven't watched my lesson <a title="How to Practice Arpeggios on the Bass" href="http://scottsbasslessons.com/technique/practice-bass-arpeggios.html">How to learn Arpeggios on the bass</a>, it might be a good idea to do so: in this lesson, I'm showing you how you should learn your arpeggios starting from different fingers --index, major and pinky. Here we're gonna use the "third position" (starting from the pinky).</p>
+<p>Have fun!</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/6FElLI8lSjQ" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+</p>
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/licks/lydian-type-jazz-lick-bass-lesson-part-1.html">Lydian Type Jazz Lick Bass Lesson #1 (L#45)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/licks/lydian-type-jazz-lick-bass-lesson-part-1.html/feed</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Licks/Lydian_type_jazz_lick.mp4" length="41173162" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

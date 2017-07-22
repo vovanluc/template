@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>building &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/building/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Unhappy with your technique?&#8230; Watch This! (L#99)</title>
+		<link>http://www.scottsbasslessons.com/technique/unhappy-with-your-technique-watch-this-l99.html</link>
+		<comments>http://www.scottsbasslessons.com/technique/unhappy-with-your-technique-watch-this-l99.html#comments</comments>
+		<pubDate>Fri, 17 Jan 2014 13:26:23 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Bass Tips]]></category>
+		<category><![CDATA[Technique]]></category>
+		<category><![CDATA[building]]></category>
+		<category><![CDATA[technique]]></category>
+
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=4900</guid>
+		<description><![CDATA[<p>In this bass lesson I'm going to explain exactly why you MUST start slowly when changing anything to do with your technique. Trust me... it's more interesting than you might think. And, if i'd known why you must do this...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/unhappy-with-your-technique-watch-this-l99.html">Unhappy with your technique?&#8230; Watch This! (L#99)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In this bass lesson I'm going to explain exactly why you MUST start slowly when changing anything to do with your technique. Trust me... it's more interesting than you might think. And, if i'd known why you must do this when I was younger I could have saved myself hundreds of hours of wasted time.</p>
+<p>Now grab you're bass and get in the shed!</p>
+<p>Scott ;)<br />
+<div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/_EmBwLTLgxg" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+<br />
+<br />
+<br />
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/unhappy-with-your-technique-watch-this-l99.html">Unhappy with your technique?&#8230; Watch This! (L#99)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/technique/unhappy-with-your-technique-watch-this-l99.html/feed</wfw:commentRss>
+		<slash:comments>67</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Bass_Tips/Unhappy_with_your_technque.mp4" length="63240517" type="video/mp4" />
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Technique/Unhappy+With+Your+Bass+Technique...+Watch+This!+Bass+Lesson+with+Scott+Devine.mp3" length="11028397" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

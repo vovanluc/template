@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments on: Lead Sheet Navigation for Bass Players</title>
+	<atom:link href="http://www.scottsbasslessons.com/bass-tips/lead-sheet-navigation-bass-players.html/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com/bass-tips/lead-sheet-navigation-bass-players.html</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Wed, 19 Jul 2017 21:18:00 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>By: Ian Lewis</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/lead-sheet-navigation-bass-players.html#comment-17774</link>
+		<dc:creator><![CDATA[Ian Lewis]]></dc:creator>
+		<pubDate>Mon, 09 Jan 2017 05:01:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=15935#comment-17774</guid>
+		<description><![CDATA[Thanks Scott.  Most of my playing is from fully written-out bass parts and I use (your) steps 1, 2, 4, and then, if I have the time; 3.  But when I&#039;m playing in smaller combos, reading from fake books, I use (your) steps 1, 2, 3 &#038; 4 (the melodic players/singers don&#039;t always follow the written form, but it helps to have looked at where the Head, verses, choruses, bridge etc. start and end.  Thanks again for another useful lesson.  And if I may suggest - Stefan, Trebor, Robert, don&#039;t get too hung up on whether the Cm7 is or isn&#039;t a III, just follow Scott&#039;s steps to make your reading easier.]]></description>
+		<content:encoded><![CDATA[<p>Thanks Scott.  Most of my playing is from fully written-out bass parts and I use (your) steps 1, 2, 4, and then, if I have the time; 3.  But when I&#8217;m playing in smaller combos, reading from fake books, I use (your) steps 1, 2, 3 &amp; 4 (the melodic players/singers don&#8217;t always follow the written form, but it helps to have looked at where the Head, verses, choruses, bridge etc. start and end.  Thanks again for another useful lesson.  And if I may suggest &#8211; Stefan, Trebor, Robert, don&#8217;t get too hung up on whether the Cm7 is or isn&#8217;t a III, just follow Scott&#8217;s steps to make your reading easier.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Trebor0012</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/lead-sheet-navigation-bass-players.html#comment-17773</link>
+		<dc:creator><![CDATA[Trebor0012]]></dc:creator>
+		<pubDate>Sun, 08 Jan 2017 18:51:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=15935#comment-17773</guid>
+		<description><![CDATA[If you listen to the chord progression, you&#039;ll find that the pitch center in line 3 (ignoring the intro) is Eb, not Ab.  Yes, c-7 is a iii chord in the key of Ab but, in this case, measures 1-5 and 9-13 (again, ignoring the intro) echo each other: vi ii V7 I IV in Ab, then the same pattern in Eb.  Soloing over each segment can be approached similarly, with the first statement in Ab and the second in Eb.]]></description>
+		<content:encoded><![CDATA[<p>If you listen to the chord progression, you&#8217;ll find that the pitch center in line 3 (ignoring the intro) is Eb, not Ab.  Yes, c-7 is a iii chord in the key of Ab but, in this case, measures 1-5 and 9-13 (again, ignoring the intro) echo each other: vi ii V7 I IV in Ab, then the same pattern in Eb.  Soloing over each segment can be approached similarly, with the first statement in Ab and the second in Eb.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Robert</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/lead-sheet-navigation-bass-players.html#comment-17771</link>
+		<dc:creator><![CDATA[Robert]]></dc:creator>
+		<pubDate>Sat, 07 Jan 2017 15:12:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=15935#comment-17771</guid>
+		<description><![CDATA[I agree with you Stefan, somehow Scott switched from Ab to Eb and the key signature was dictating Ab.]]></description>
+		<content:encoded><![CDATA[<p>I agree with you Stefan, somehow Scott switched from Ab to Eb and the key signature was dictating Ab.</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>By: Stefan Boret</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/lead-sheet-navigation-bass-players.html#comment-17769</link>
+		<dc:creator><![CDATA[Stefan Boret]]></dc:creator>
+		<pubDate>Fri, 06 Jan 2017 12:47:00 +0000</pubDate>
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=15935#comment-17769</guid>
+		<description><![CDATA[To me chord Cm7 is chord III and in the last row Abmaj7 i chord I. Or am i wrong?]]></description>
+		<content:encoded><![CDATA[<p>To me chord Cm7 is chord III and in the last row Abmaj7 i chord I. Or am i wrong?</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.scottsbasslessons.com	TRUE	/	FALSE	1999999999	_wp_first_time	1
+www.scottsbasslessons.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+www.scottsbasslessons.com	TRUE	/	FALSE	1999999999	prli_click_22	bass-line-series-10-classic-bass-lines-masterclass
+www.scottsbasslessons.com	TRUE	/	FALSE	1999999999	prli_visitor	59725800e43cc
+www.scottsbasslessons.com	TRUE	/	FALSE	1999999999	prli_click_81	30day
+www.scottsbasslessons.com	TRUE	/	FALSE	1999999999	prli_click_4	login
+.google.com	TRUE	/	FALSE	1999999999	NID	108=nLOQDt2_w-qYBQoEsAL7vSMzk98iTG4SgsVIy0S4iJ-k6mcyT-Ld0DECMvpDzTcLxN5fX2581sgTVE3gybeycnHUQRTpmFMw9i58uJak4-jlybFrMnsbW8iojlFujlIB
+badges.instagram.com	TRUE	/	FALSE	1999999999	mid	WXJtVQAEAAELhfd4OS6ZdqTQ1poE
+badges.instagram.com	TRUE	/	FALSE	1999999999	rur	FRC
+badges.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	I7dYHZaa9aYj05bV4rrcnRzHHgKIzoUu
+

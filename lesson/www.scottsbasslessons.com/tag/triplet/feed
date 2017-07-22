@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>triplet &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/triplet/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Slap bass Lesson &#8211; The Secret Triplet Technique (L#84)</title>
+		<link>http://www.scottsbasslessons.com/technique/slap-bass-lesson-the-sectret-triplet-technique.html</link>
+		<comments>http://www.scottsbasslessons.com/technique/slap-bass-lesson-the-sectret-triplet-technique.html#comments</comments>
+		<pubDate>Tue, 30 Apr 2013 13:53:27 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Slap Bass]]></category>
+		<category><![CDATA[Technique]]></category>
+		<category><![CDATA[slap bass]]></category>
+		<category><![CDATA[triplet]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=4197</guid>
+		<description><![CDATA[<p>In this slap bass lesson I'm going to show you a technique that I use a lot. I say 'secret' because it's so hard to see what's going on within slap bass lines sometimess that it's easy to miss the...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/slap-bass-lesson-the-sectret-triplet-technique.html">Slap bass Lesson &#8211; The Secret Triplet Technique (L#84)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In this <strong>slap bass lesson</strong> I'm going to show you a technique that I use a lot. I say 'secret' because it's so hard to see what's going on within slap bass lines sometimess that it's easy to miss the simple little techniques that are thrown into the mix of a groove to give the bass line that super percussive vibe.</p>
+<p>Within this tutorial I'm going to peel back the layers of a slap groove and highlight where I'm using these 'secret triplets' to really enhance the overall groove and vibe of the bass line!</p>
+<p>Now grab your bass and get in the shed!</p>
+<p>Scott ;)</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/SeaXECXClow" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div><br />
+<br />
+<a href="http://www.scottsbasslessons.com/sbl-insider-pro" class="post_cta">Want the tab and notation for this lesson?</a></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/technique/slap-bass-lesson-the-sectret-triplet-technique.html">Slap bass Lesson &#8211; The Secret Triplet Technique (L#84)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/technique/slap-bass-lesson-the-sectret-triplet-technique.html/feed</wfw:commentRss>
+		<slash:comments>40</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Technique/The_secret_triplet.m4v" length="105150441" type="video/mp4" />
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Technique/Slap_Bass_Lesson_The_Secret_Triplet_Technique_L_84-SeaXECXClow.mp3" length="6799349" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>protection &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/protection/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Why You Need to Protect Your Hearing! (L#119)</title>
+		<link>http://www.scottsbasslessons.com/bass-tips/protecting-hearing.html</link>
+		<comments>http://www.scottsbasslessons.com/bass-tips/protecting-hearing.html#comments</comments>
+		<pubDate>Thu, 28 Aug 2014 09:54:51 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Bass Tips]]></category>
+		<category><![CDATA[hearing]]></category>
+		<category><![CDATA[protection]]></category>
+		<category><![CDATA[tinnitus]]></category>
+
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=6699</guid>
+		<description><![CDATA[<p>Now don’t get me wrong, I know that the subject of “protecting your hearing” could be conceived to be a boring topic… but trust me, it’s such an important subject and something you must think about if you’re playing live...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-tips/protecting-hearing.html">Why You Need to Protect Your Hearing! (L#119)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Now don’t get me wrong, I know that the subject of “protecting your hearing” could be conceived to be a boring topic… but trust me, it’s such an important subject and something you <em>must</em> think about if you’re playing live regularly. By not doing so you could be putting your entire career as a musician at risk.</p>
+<p>Hearing problems effect literally thousands of musicians across the globe every day, I want to make sure you’re not one of them!</p>
+<p>As always, see you in the shed…</p>
+<p>Scott :)</p>
+<p>PS. If you missed my last “Bass Riff of the Week”… get ready to get your funk on and <a href="http://www.scottsbasslessons.com/bass-lines-grooves/riff-week-2.html">check it out here.</a></p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/x4pVcu7xJZU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> </p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-tips/protecting-hearing.html">Why You Need to Protect Your Hearing! (L#119)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/bass-tips/protecting-hearing.html/feed</wfw:commentRss>
+		<slash:comments>33</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Bass_Tips/L%23119_Protect_Your+Hearing.mp4" length="60763485" type="video/mp4" />
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Bass+Tips/L%23119_Protect_Your+Hearing.mp3" length="6753010" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

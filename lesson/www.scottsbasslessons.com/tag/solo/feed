@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>solo &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/solo/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>The &#8220;Richard Bona Lick&#8221; (L#11)</title>
+		<link>http://www.scottsbasslessons.com/licks/richard-bona-bass-lick-video-tutorial.html</link>
+		<comments>http://www.scottsbasslessons.com/licks/richard-bona-bass-lick-video-tutorial.html#comments</comments>
+		<pubDate>Mon, 24 Oct 2011 10:14:29 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Licks]]></category>
+		<category><![CDATA[richard bona]]></category>
+		<category><![CDATA[solo]]></category>
+		<category><![CDATA[soloing]]></category>
+		<category><![CDATA[vocabulary]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=1253</guid>
+		<description><![CDATA[<p>A few of my students asked me to show them the 'lick' the great bass player Richard Bona plays in many of his solos. I figured there'd be lots more bass players out there that would be interested too so...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/licks/richard-bona-bass-lick-video-tutorial.html">The &#8220;Richard Bona Lick&#8221; (L#11)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>A few of my students asked me to show them the 'lick' the great bass player Richard Bona plays in many of his solos. I figured there'd be lots more bass players out there that would be interested too so here it is...</p>
+<p><a href="http://scottsbasslessons.files.wordpress.com/2010/07/the-richard-bona-lick-transcription.pdf"><strong>Downloadable Transcription</strong></a></p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/0spxI5Dl3qA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/licks/richard-bona-bass-lick-video-tutorial.html">The &#8220;Richard Bona Lick&#8221; (L#11)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/licks/richard-bona-bass-lick-video-tutorial.html/feed</wfw:commentRss>
+		<slash:comments>4</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Licks/the_richard_bona_lick.mp4" length="34446493" type="video/mp4" />
+		</item>
+	</channel>
+</rss>

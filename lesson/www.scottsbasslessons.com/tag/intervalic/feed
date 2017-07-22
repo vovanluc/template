@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>intervalic &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/intervalic/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>2 ways To Make Your Bass Solos Sound Awesome! (L#85)</title>
+		<link>http://www.scottsbasslessons.com/improvisation/awesome-bass-solo-lesson.html</link>
+		<comments>http://www.scottsbasslessons.com/improvisation/awesome-bass-solo-lesson.html#comments</comments>
+		<pubDate>Tue, 21 May 2013 14:49:06 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Improvisation]]></category>
+		<category><![CDATA[intervalic]]></category>
+		<category><![CDATA[linear lines]]></category>
+		<category><![CDATA[sequences]]></category>
+		<category><![CDATA[soloing]]></category>
+
+		<guid isPermaLink="false">http://scottsbasslessons.com/?p=4466</guid>
+		<description><![CDATA[<p>In this bass lesson I'm going to show you two awesome techniques that will literally bring your bass soloing alive! By using linear lines in conjunction with intervalic scale sequences your bass solos will start to become more dynamic and...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/improvisation/awesome-bass-solo-lesson.html">2 ways To Make Your Bass Solos Sound Awesome! (L#85)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>In this bass lesson I'm going to show you two awesome techniques that will literally bring your bass soloing alive! By using linear lines in conjunction with intervalic scale sequences your bass solos will start to become more dynamic and give you an almost never ending supply of ideas!</p>
+<p>Now grab your bass and get in the shed! Scott ;)</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="http://www.youtube.com/embed/juoiLkiMNIc" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div></p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/improvisation/awesome-bass-solo-lesson.html">2 ways To Make Your Bass Solos Sound Awesome! (L#85)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/improvisation/awesome-bass-solo-lesson.html/feed</wfw:commentRss>
+		<slash:comments>51</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Improvisation/2_ways_to_make_solos_awesome.mp4" length="127206076" type="video/mp4" />
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Improvisation/2_Ways_To_Make_Your_Bass_Solos_Sound_Awesome_L_85-juoiLkiMNIc.mp3" length="8884967" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>

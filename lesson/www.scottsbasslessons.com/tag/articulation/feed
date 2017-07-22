@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>articulation &#8211; Online Bass Lessons</title>
+	<atom:link href="http://www.scottsbasslessons.com/tag/articulation/feed" rel="self" type="application/rss+xml" />
+	<link>http://www.scottsbasslessons.com</link>
+	<description>Free Online Bass Lessons</description>
+	<lastBuildDate>Fri, 21 Jul 2017 14:06:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.5</generator>
+	<item>
+		<title>Two ways to make your bass lines sound awesome! (L#114)</title>
+		<link>http://www.scottsbasslessons.com/bass-lines-grooves/two-ways-make-bass-lines-sound-awesome.html</link>
+		<comments>http://www.scottsbasslessons.com/bass-lines-grooves/two-ways-make-bass-lines-sound-awesome.html#comments</comments>
+		<pubDate>Fri, 18 Jul 2014 10:30:49 +0000</pubDate>
+		<dc:creator><![CDATA[scott]]></dc:creator>
+				<category><![CDATA[Bass Lines & Grooves]]></category>
+		<category><![CDATA[articulation]]></category>
+		<category><![CDATA[dynamics]]></category>
+
+		<guid isPermaLink="false">http://www.scottsbasslessons.com/?p=6463</guid>
+		<description><![CDATA[<p>So this lesson is a BIGGY! As in, although I may seem to be covering a pretty simple concept, I believe this is one of the main things that separates great sounding players and mediocre sounding players. I say “one...</p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-lines-grooves/two-ways-make-bass-lines-sound-awesome.html">Two ways to make your bass lines sound awesome! (L#114)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>So this lesson is a BIGGY!</p>
+<p>As in, although I may seem to be covering a pretty simple concept, I believe this is one of the main things that separates great sounding players and mediocre sounding players.</p>
+<p>I say “one of the main things” because there are a few different elements that I believe make up a great sounding bass player, and this is just two of them. I should say though, I don’t believe the list is huge… I think there are just a few key things someone needs to master to be a great musician… the gag is, those things, although few, can take a lot of hard work, determination and dedication to master.</p>
+<p>Anyway… back to this lesson! ;)</p>
+<p>You’ve heard two guys playing the same riff, right? One guy sounds pretty cool… the other guy sounds AMAZING! But, it’s the same riff!</p>
+<p>The first time I noticed this phenomenon was in drummers. I’d listen to two drummers playing the same beat… one would sound good, the other would sound amazing.</p>
+<p>How is this possible?!…</p>
+<p>Three simple things… time feel, articulation and dynamics.</p>
+<p>In this lesson I discuss two of these elements, articulation and dynamics and give you some simple exercises to get you going on your journey towards becoming a monster of GROOVE! ;)</p>
+<p>As always, see you in the shed…</p>
+<p>Scott :)</p>
+<p><div><a href="http://www.scottsbasslessons.com/bass-academy" class="post_cta">Full tab/notation & workbook available to Academy members &raquo;</a></div><div class="video_wrap "><iframe src="//www.youtube.com/embed/DdkazkzLsxY" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div> </p>
+<p>The post <a rel="nofollow" href="http://www.scottsbasslessons.com/bass-lines-grooves/two-ways-make-bass-lines-sound-awesome.html">Two ways to make your bass lines sound awesome! (L#114)</a> appeared first on <a rel="nofollow" href="http://www.scottsbasslessons.com">Online Bass Lessons</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://www.scottsbasslessons.com/bass-lines-grooves/two-ways-make-bass-lines-sound-awesome.html/feed</wfw:commentRss>
+		<slash:comments>36</slash:comments>
+<enclosure url="https://s3.amazonaws.com/SBLVideodownloads/Bass_Lines_and_Grooves/L%23114_2_Ways_To_Make_Your_Bass_Lines_Sound_Awesome.mp4" length="121541154" type="video/mp4" />
+<enclosure url="https://s3-us-west-2.amazonaws.com/sblinsider/Audio/Bass+Lines+%26+Grooves/L%23114_2_Ways_To_Make_Your_Bass_Lines_Sound_Awesome.mp3" length="13553206" type="audio/mpeg" />
+		</item>
+	</channel>
+</rss>
